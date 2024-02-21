@@ -1,0 +1,7 @@
+# Archivos que no quiero subir a github
+/.gtkrc-2.0
+/.gtkrc-xfce
+/.gitconfig
+/.bash_logout
+/.bashrc
+/.xsessionrc
