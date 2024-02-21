@@ -1,7 +1,7 @@
 # dotfiles
 dotfiles de linux que uso pa que se vea asi
 
-![terminal de yosokosu](https://github.com/vi-cho/dotfiles/obj/2024-02-21-18-21-30.png)
+![alt text](https://github.com/vi-cho/dotfiles/obj/2024-02-21-18-21-30.png "terminal de yosokosu-mint")
 
 ## Cosas que uso (WIP)
 
