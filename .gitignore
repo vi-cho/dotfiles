@@ -1,7 +1,14 @@
 # Archivos que no quiero subir a github
-/.gtkrc-2.0
-/.gtkrc-xfce
+
+## .sueltos
+/.gtkrc-*
 /.gitconfig
 /.bash_logout
 /.bashrc
 /.xsessionrc
+
+## excepciones a .config
+/.config/*
+!/.config/cava/
+!/.config/kitty/
+!/.config/neofetch/
