@@ -1,5 +1,5 @@
 # BEGIN_KITTY_THEME
-# Cherry Midnight
+# Vibrant Ink
 include current-theme.conf
 # END_KITTY_THEME
 
@@ -19,14 +19,14 @@ notify_on_cmd_finish unfocused 10.0 command notify-send job finished
 editor               nano
 
 # Background
-background_opacity 0.8
+background_opacity 0.7
 background_blur    1
 
 # Size and place
 remember_window_size    yes
 hide_window_decorations yes
 placement_strategy      center
-font_size 16
+font_size 14
 
 # Keyboard
 map kitty_mod+i>i discard_event
